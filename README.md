@@ -1,2 +1,2 @@
 # python
-# go through this repository to learn the basic of python programming
+# Go through this repository to learn the basic's of "PYTHON" programming
