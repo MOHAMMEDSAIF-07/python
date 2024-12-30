@@ -93,6 +93,10 @@
 >
  >Boolean		0/1
 
-# Wanna learn Control Statements go through this file
+# If you wanna learn about Control Statements in python then go through the given file
  >
- > [Control Statements.pptx](https://github.com/user-attachments/files/18275766/Control.Statements.pptx)
+ > [Control Statements](https://github.com/user-attachments/files/18275766/Control.Statements.pptx)
+#
+#Data structures
+>
+>[Data structures](https://github.com/user-attachments/files/18275933/Data.structures.pptx)
