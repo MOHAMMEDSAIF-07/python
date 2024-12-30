@@ -3,9 +3,9 @@
 # 
 # 
 # What is Python?
-# >Python is a interpreted, high level, general purpose programming language created by Guido van Rossum in 1991.
-# >It is free and open source, runs on all major operating systems,like - Windows,Linux and Macos.
-# >Python is designed to be highly extensible and does not have all of its functionalities built into its core.
+ >Python is a interpreted, high level, general purpose programming language created by Guido van Rossum in 1991.
+ >It is free and open source, runs on all major operating systems,like - Windows,Linux and Macos.
+ >Python is designed to be highly extensible and does not have all of its functionalities built into its core.
 # 
 # 
 # Python Features
