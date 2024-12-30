@@ -50,11 +50,16 @@
  >Multi-line comments start and end with triple quotes (“””)
 # 
 # 
-# print() function: The output can be displayed using a print() function.
-# Ex:
-# salary = 7000
-# print(“Total salary is salary”)				--> Total salary is salary
-# print(“total salary is : ”,salary)				--> total salary is : 7000
+# print() function:
+ >The output can be displayed using a print() function.
+>
+ >Ex:
+>
+ >salary = 7000
+>
+ >print(“Total salary is salary”)				--> Total salary is salary
+>
+>print(“total salary is : ”,salary)				--> total salary is : 7000
 # 
 # 
 # Input() function: 
@@ -62,15 +67,20 @@
 >
  >This function accepts only string data.
 # Ex:
-# num=input(“Enter the number: “)
-# print(“The number is : “,num, “and the class is : “,type(num))
-# output:
-# Enter the number: 12345
-# The number is : 12345 and the class is : <class ‘str’>
+ >num=input(“Enter the number: “)
+>
+ >print(“The number is : “,num, “and the class is : “,type(num))
+>
+ >output:
+>
+ >Enter the number: 12345
+>
+ >The number is : 12345 and the class is : <class ‘str’>
 # 
 # 
 # Operators
-# A operator is a symbol that tells the computer to perform specific mathematical or logical function.
+ >
+ > A operator is a symbol that tells the computer to perform specific mathematical or logical function.
 # Python provides
  >Arithmetic operators	+,-,*,/,%,**,//
 >
