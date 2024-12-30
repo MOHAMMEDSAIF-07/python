@@ -92,3 +92,6 @@
  >Logical		&&,||,^
 >
  >Boolean		0/1
+
+# Wanna learn Control Statements go through this file
+[Control Statements.pptx](https://github.com/user-attachments/files/18275766/Control.Statements.pptx)
